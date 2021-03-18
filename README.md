@@ -10,6 +10,16 @@
 
 ### sshfs
 
+## FTP
+
+### Server
+
+* [FileZilla - The free FTP solution](https://filezilla-project.org/)
+
+### Client
+
+* [Transmit 5](https://panic.com/transmit/)
+
 ## Network Attached Storage (NAS)
 
 ### NAS Hardware
