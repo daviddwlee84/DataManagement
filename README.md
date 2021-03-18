@@ -14,7 +14,16 @@
 
 ### Server
 
-* [FileZilla - The free FTP solution](https://filezilla-project.org/)
+#### FileZilla
+
+> * [FileZilla - The free FTP solution](https://filezilla-project.org/)
+
+1. Set auto start while installation
+2. Add user
+3. Setup server passive mode, custom port range
+4. Make sure the FTP port (default 21) and your custom port range are opened
+
+TODO: TLS / sftp
 
 ### Client
 
